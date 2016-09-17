@@ -1,0 +1,35 @@
+/*
+ * Custom Style for Wedding Website
+ */
+
+/*
+ * Color Scheme Reference
+ * ----------------------
+ *
+ * Medium Purple: 	#BF55EC;
+ * Seance:			#9A12B3;
+ * Dark Grey:		#333333;
+ * Light Grey:		#DADFE1;
+ *
+ */
+
+* {
+	font-family: 'Varela Round', sans-serif;
+}
+
+
+/*
+ * Countdown Timer
+ */
+
+/*.counter-row > .col-lg-3 {
+	text-align: center;
+}
+
+.circle-counter {
+	background-color: #9A12B3;
+	height: 100px;
+	width: 100px;
+	border-radius: 50px;
+	text-align: center;
+}*/
