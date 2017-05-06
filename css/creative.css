@@ -227,6 +227,26 @@ header .header-content .header-content-inner {
     font-size: 2em;
   }
 }
+
+#rsvp-block {
+  margin-top: 30px;
+}
+
+#btn-rsvp {
+  box-sizing: border-box;
+  min-width: 60%;
+  font-size: 2em;
+  background-color: #BF55EC;
+  color: #fff;
+  border: 2px solid #fff;
+  border-radius: 30px;
+}
+#btn-rsvp:hover {
+  background-color: #fff;
+  color: #BF55EC;
+  border-color: #fff;
+}
+
 #rome {
   background: url('../img/rome-bg.png') no-repeat center top;
   -webkit-background-size: cover;
@@ -275,6 +295,58 @@ header .header-content .header-content-inner {
 
 #clockdiv span {
   font-size: 2.5em;
+}
+
+.accomodations-desc {
+  line-height: 1.6em;
+  font-size: 1.3em;
+}
+
+.hotel-data {
+  margin-top: 10px;
+}
+
+.hotel-data img {
+  max-width: 100%;
+}
+
+.btn-accom {
+  box-sizing: border-box;
+  color: #BF55EC;
+  border: 2px solid #BF55EC;
+  border-radius: 20px;
+}
+.btn-accom:hover {
+  background-color: #BF55EC;
+  color: #fff;
+  border-color: #BF55EC;
+}
+
+#registry {
+  background-color: #BF55EC;
+}
+
+#registry h2 {
+  font-size: 2em;
+  color: #fff;
+  font-weight: bold;
+  margin-bottom: 30px;
+  margin-top: -30px;
+}
+
+.btn-registry {
+  box-sizing: border-box;
+  min-width: 50%;
+  font-size: 2em;
+  background-color: #BF55EC;
+  color: #fff;
+  border: 2px solid #fff;
+  border-radius: 30px;
+}
+.btn-registry:hover {
+  background-color: #fff;
+  color: #BF55EC;
+  border-color: #fff;
 }
 
 .smalltext {
